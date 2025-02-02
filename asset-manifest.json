@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.8b872146.chunk.js",
-    "main.js.map": "/static/js/main.8b872146.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a9bf5b5f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a9bf5b5f.js.map",
-    "static/js/2.7e027c04.chunk.js": "/static/js/2.7e027c04.chunk.js",
-    "static/js/2.7e027c04.chunk.js.map": "/static/js/2.7e027c04.chunk.js.map",
-    "static/js/3.73bc1785.chunk.js": "/static/js/3.73bc1785.chunk.js",
-    "static/js/3.73bc1785.chunk.js.map": "/static/js/3.73bc1785.chunk.js.map",
+    "main.js": "/static/js/main.67f83e35.chunk.js",
+    "main.js.map": "/static/js/main.67f83e35.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f7b473a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f7b473a5.js.map",
+    "static/js/2.7d4e1861.chunk.js": "/static/js/2.7d4e1861.chunk.js",
+    "static/js/2.7d4e1861.chunk.js.map": "/static/js/2.7d4e1861.chunk.js.map",
+    "static/js/3.d0fea1c1.chunk.js": "/static/js/3.d0fea1c1.chunk.js",
+    "static/js/3.d0fea1c1.chunk.js.map": "/static/js/3.d0fea1c1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.08c49f20c7936bf65f0df789d4c30d7f.js": "/precache-manifest.08c49f20c7936bf65f0df789d4c30d7f.js",
+    "precache-manifest.494c711e8bfadd56a405f5b655fdd986.js": "/precache-manifest.494c711e8bfadd56a405f5b655fdd986.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7e027c04.chunk.js.LICENSE.txt": "/static/js/2.7e027c04.chunk.js.LICENSE.txt",
+    "static/js/2.7d4e1861.chunk.js.LICENSE.txt": "/static/js/2.7d4e1861.chunk.js.LICENSE.txt",
     "static/media/bosch.857d2bf7.svg": "/static/media/bosch.857d2bf7.svg",
     "static/media/briskair.0d05150c.svg": "/static/media/briskair.0d05150c.svg",
     "static/media/ifb.39b9ce59.svg": "/static/media/ifb.39b9ce59.svg",
-    "static/media/profile.jpg": "/static/media/profile.79ba2002.jpg",
+    "static/media/profileReplace.png": "/static/media/profileReplace.4dca4ffe.png",
     "static/media/samsung.ff9c74d9.svg": "/static/media/samsung.ff9c74d9.svg",
     "static/media/svg-1.svg": "/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2-replace.svg": "/static/media/svg-2-replace.aceeb6ed.svg",
     "static/media/svg-2.svg": "/static/media/svg-2.d4846e11.svg",
     "static/media/svg-3.svg": "/static/media/svg-3.397c455a.svg",
     "static/media/welcome1.svg": "/static/media/welcome1.8daa865f.svg",
@@ -27,9 +28,9 @@
     "static/media/whatsapp.ba90dc77.svg": "/static/media/whatsapp.ba90dc77.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9bf5b5f.js",
-    "static/js/2.7e027c04.chunk.js",
+    "static/js/runtime-main.f7b473a5.js",
+    "static/js/2.7d4e1861.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8b872146.chunk.js"
+    "static/js/main.67f83e35.chunk.js"
   ]
 }
